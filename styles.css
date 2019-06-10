@@ -17,7 +17,7 @@ header .main-image {
 }
 
 h1 {
-	background-color: #4f3639;
+	color: #000000
 	padding: 5px;
 	text-align: center;
 }
@@ -25,6 +25,7 @@ h1 {
 .section-title {
 	text-transform: capitalize;
 	text-align: center;
+	color: #000000
 }
 
 .qual-list {
