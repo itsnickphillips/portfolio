@@ -3,11 +3,13 @@ body {
 	background-color: #36454f;
 	font-family: "Arial"
 }
-
-.main-image {
-	border: solid 4px #4f3639;
-	border-radius: 50%;
-
+header .main-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: solid 4px #4f3639;
+  transition: all .5s;
 }
 
 h1 {
