@@ -1,35 +1,59 @@
+
+
 body {
-	
-	background-color: #36454f;
-	font-family: "Arial"
+	background-color: #ffffff;
 }
 
+
+/* header of page*/
 header {
   text-align: center;
+  background-image: url("Images/profile.jpg");
+  background-position: 75% 75%;
+  background-repeat: no-repeat;
+  background-size: 2077px 1382px;
+  padding-top: 300px; 
 }
-header .main-image {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  border: solid 4px #4f3639;
-  transition: all .5s;
-}
+
 
 h1 {
 	padding: 5px;
 	text-align: center;
-	color: #FFFFFF
+	font-style: italic;
+	color: rgb(0, 0, 0)
 }
 
 .section-title {
-	text-transform: capitalize;
 	text-align: center;
-	color: #FFFFFF
+	color: #000
+	
+}
+
+.temporary-message {
+	text-align: center;
+	font-size: 12px;
+
 }
 
 
 .qual-list {
 	text-align: center;
 	
+}
+
+footer{
+	text-align: center;
+}
+
+footer ul li {
+	display: inline-block;
+  }
+
+.social {
+	text-decoration: none;
+	color: orange;
+}
+
+footer a.link {
+	color: orange
 }
