@@ -1,0 +1,40 @@
+.challengetext {
+  text-align: center;
+}
+
+.progress{
+  text-align: center;
+}
+
+
+.daycount {
+  text-align: right;
+}
+
+.resumecard{
+  text-align: center;
+}
+
+.blogcard{
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer a{
+  text-decoration: none;
+}
+
+.scroll{
+  height: 500px;
+  overflow-y: auto;
+}
